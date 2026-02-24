@@ -220,7 +220,7 @@ function App() {
           </div>
           <div className="col-md-12 text-center">
   <div className="center-image">
-    <img src={clinic4} alt="Center Image" style={{ width: '100%', height: 'auto' }} />
+    <img src={clinic4} alt="Clinic building exterior" style={{ width: '100%', height: 'auto' }} />
   </div>
 </div>
           <div className="row">
@@ -276,13 +276,13 @@ function App() {
         <h2 className="main-title">Clinic Gallery</h2>
         <div className="row">
           <div className="col-md-4">
-            <img src={clinic1} alt="Clinic Image 1" className="img-fluid" />
+            <img src={clinic1} alt="Clinic reception area" className="img-fluid" />
           </div>
           <div className="col-md-4">
-            <img src={clinic2} alt="Clinic Image 2" className="img-fluid" />
+           <img src={clinic2} alt="Doctor consultation room" className="img-fluid" />
           </div>
           <div className="col-md-4">
-            <img src={clinic3} alt="Clinic Image 3" className="img-fluid" />
+            <img src={clinic3} alt="Modern medical facility interior" className="img-fluid" />
           </div>
         </div>
       </section>
